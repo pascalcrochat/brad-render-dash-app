@@ -1,0 +1,11 @@
+dash==1.21.0
+embedchain==0.1.67
+lxml==5.1.0
+youtube-transcript-api==0.6.2
+pytube==15.0.0
+translate
+langdetect
+Flask
+python-dotenv
+dash-tools
+gunicorn
