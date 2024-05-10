@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* Style du logo */
+.img-fluid {
+    width: 90px;
+    margin-bottom: 5px;
+}
+
+/* Titres */
+h1, h3 {
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+/* Zone de conversation */
+.conversation-area {
+    width: 50%;
+    margin-bottom: 0;
+    display: block;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 200px;
+    overflow-y: auto;
+}
+
+/* Zone de question */
+#question-area {
+    width: 50%;
+    margin-top: 10px;
+    display: block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Bouton de soumission */
+#submit-btn {
+    background-color: #f5d10b;
+    color: black;
+    border: none;
+    margin-top: 10px;
+    display: block;
+    padding: 6px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
